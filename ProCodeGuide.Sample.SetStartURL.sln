@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProCodeGuide.Sample.SetStartURL", "ProCodeGuide.Sample.SetStartURL\ProCodeGuide.Sample.SetStartURL.csproj", "{DE036187-B685-4FEF-A68F-33995D098FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE036187-B685-4FEF-A68F-33995D098FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE036187-B685-4FEF-A68F-33995D098FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE036187-B685-4FEF-A68F-33995D098FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE036187-B685-4FEF-A68F-33995D098FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEAE8E04-366A-4B98-9E29-9470256E622F}
+	EndGlobalSection
+EndGlobal
